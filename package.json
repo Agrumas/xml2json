@@ -1,8 +1,8 @@
-{
+﻿{
   "name": "xml2json",
   "homepage": "https://github.com/henrikingo/xml2json",
   "description": "Translate any XML document to corresponding JSON (TODO: or vice versa)",
-  "version": "0.1",
+  "version": "1.0.0",
   "author": {
     "name": "Henrik Ingo",
     "email": "henrik.ingo@avoinelama.fi"
